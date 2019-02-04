@@ -1,0 +1,22 @@
+{
+  "name": "ionic-starter-template-electron",
+  "version": "0.0.0",
+  "description": "Ionic Capacitor Electron starter",
+  "main": "index.js",
+  "scripts": {
+    "electron:start": "electron ./"
+  },
+  "dependencies": {
+    "@capacitor/electron": "^1.0.0-alpha.28",
+    "electron-is-dev": "^0.3.0"
+  },
+  "devDependencies": {
+    "electron": "^4.0.0"
+  },
+  "keywords": [
+    "capacitor",
+    "electron"
+  ],
+  "author": "",
+  "license": "ISC"
+}
